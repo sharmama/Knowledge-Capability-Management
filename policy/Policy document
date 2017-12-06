@@ -1,2 +1,20 @@
-This is a new policy document to write documentation around various company policies.
-Some more edits to show how GitHub works!
+#Global Services Policy#
+##Change Management##
+###1. Purpose###
+The purpose of this document is to provide a general overview of NTT Security Change Management policy. 
+NTT Security shall ensure that all devices and security-related services are managed and modified successfully within the agreed time window estimates, predicted cost, and high quality without any risk or disruption to customer service.
+* *Definition of Change Management (ITIL v3): The Process responsible for controlling the Lifecycle of all Changes. The primary objective of Change Management is to enable required/requested Changes to be made with minimum disruption.* *
+The objectives of the Change Management Policy are to: 
+•	Set customer expectations appropriately.
+•	Ensure appropriate tools, processes, skills, and rules are applied for effective handling of Change Requests.
+•	Reduce variations in the predicted and actual performance of the requested changes.
+•	Apply rigorous process and control to minimise the risk from implementation of Change Requests impacting customer service.
+
+###2.	Scope###
+This policy applies to all infrastructure or services owned, managed, or supported by Global Services as part of NTT Security Managed Security Services.
+The scope of the Change Management Policy includes the following:
+•	All Managed Security Services Change Request fulfilment across all NTT Security locations.
+•	Assessment and verification of all Change Requests to assure that authorised, reviewed, and approved Change Requests are completed efficiently and effectively.
+
+###3.	Intended Audience###
+This policy shall be read, understood, and adhered to by all Global Services staff, both permanent and contract (including suppliers and temporary staff) who hold any delivery, operational support, or service responsibility for NTT Security or supported customer infrastructure or related services.
