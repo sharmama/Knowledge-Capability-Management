@@ -1,2 +1,3 @@
 # Knowledge-Capability-Management
-test repo
+Test repo. 
+This is the Knowledge & Capability Management team's content management site.
